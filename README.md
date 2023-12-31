@@ -14,5 +14,5 @@ Our website works in same fashion. It will help them to connect with various NGO
 Click on the link below to view the website:
 
 
-https://avg77.github.io/avg77.github.io-IIIT_Hackathon_BIT-BY-BIT/
+https://avg77.github.io/IIIT_Hackathon_BIT-BY-BIT/
   
